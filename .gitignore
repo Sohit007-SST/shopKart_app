@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+*.log
+.DS_Store
+# Local secret notes (may contain live passwords/keys) - never publish
+backend/info.txt
+info.txt
+# Test coverage output
+coverage/
