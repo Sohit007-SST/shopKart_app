@@ -7,5 +7,9 @@ dist/
 # Local secret notes (may contain live passwords/keys) - never publish
 backend/info.txt
 info.txt
+.agents
+.eden
+.muse
+.sl
 # Test coverage output
 coverage/
